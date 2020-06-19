@@ -1,0 +1,4 @@
+{
+    "go.buildOnSave": "off",
+    "go.lintTool": "golangci-lint"
+}
